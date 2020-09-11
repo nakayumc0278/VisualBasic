@@ -1,0 +1,11 @@
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\bin\Debug\例題5-2.exe.config
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\bin\Debug\例題5-2.exe
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\bin\Debug\例題5-2.pdb
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\bin\Debug\例題5-2.xml
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\obj\Debug\例題5_2.Form1.resources
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\obj\Debug\例題5_2.Resources.resources
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\obj\Debug\例題5-2.vbproj.GenerateResource.cache
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\obj\Debug\例題5-2.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\obj\Debug\例題5-2.exe
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\obj\Debug\例題5-2.xml
+H:\VBNET\project\04_繰り返しの処理\例題5-2\例題5-2\obj\Debug\例題5-2.pdb

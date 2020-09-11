@@ -1,0 +1,12 @@
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\bin\Debug\演習(2)3.exe.config
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\bin\Debug\演習(2)3.exe
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\bin\Debug\演習(2)3.pdb
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\bin\Debug\演習(2)3.xml
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習(2)3.vbprojAssemblyReference.cache
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習_2_3.Form1.resources
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習_2_3.Resources.resources
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習(2)3.vbproj.GenerateResource.cache
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習(2)3.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習(2)3.exe
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習(2)3.xml
+H:\VBNET\project\04_分岐処理\演習(2)3\演習(2)3\obj\Debug\演習(2)3.pdb

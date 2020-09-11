@@ -1,0 +1,12 @@
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\bin\Debug\米と牛肉の摂取量.exe.config
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\bin\Debug\米と牛肉の摂取量.exe
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\bin\Debug\米と牛肉の摂取量.pdb
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\bin\Debug\米と牛肉の摂取量.xml
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.vbprojAssemblyReference.cache
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.Form1.resources
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.Resources.resources
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.vbproj.GenerateResource.cache
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.exe
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.xml
+H:\VBNET\project\03_演習問題(1)\米と牛肉の摂取量\米と牛肉の摂取量\obj\Debug\米と牛肉の摂取量.pdb

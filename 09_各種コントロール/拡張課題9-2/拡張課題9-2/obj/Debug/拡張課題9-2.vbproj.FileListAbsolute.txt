@@ -1,0 +1,12 @@
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9-2.vbprojAssemblyReference.cache
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9_2.Form1.resources
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9_2.Resources.resources
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9-2.vbproj.GenerateResource.cache
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9-2.vbproj.CoreCompileInputs.cache
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\bin\Debug\拡張課題9-2.exe.config
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\bin\Debug\拡張課題9-2.exe
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\bin\Debug\拡張課題9-2.pdb
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\bin\Debug\拡張課題9-2.xml
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9-2.exe
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9-2.xml
+H:\VBNET\VBNET\project\09_各種コントロール\拡張課題9-2\拡張課題9-2\obj\Debug\拡張課題9-2.pdb

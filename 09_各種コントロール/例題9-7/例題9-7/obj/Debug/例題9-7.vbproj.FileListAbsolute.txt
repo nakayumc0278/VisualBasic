@@ -1,0 +1,12 @@
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\bin\Debug\例題9-7.exe.config
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\bin\Debug\例題9-7.exe
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\bin\Debug\例題9-7.pdb
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\bin\Debug\例題9-7.xml
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9-7.vbprojAssemblyReference.cache
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9_7.Form1.resources
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9_7.Resources.resources
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9-7.vbproj.GenerateResource.cache
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9-7.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9-7.exe
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9-7.xml
+H:\VBNET\project\09_各種コントロール\例題9-7\例題9-7\obj\Debug\例題9-7.pdb

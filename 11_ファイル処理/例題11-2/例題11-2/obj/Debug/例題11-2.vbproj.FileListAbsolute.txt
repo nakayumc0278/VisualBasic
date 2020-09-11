@@ -1,0 +1,12 @@
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\bin\Debug\例題11-2.exe.config
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\bin\Debug\例題11-2.exe
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\bin\Debug\例題11-2.pdb
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\bin\Debug\例題11-2.xml
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11-2.vbprojAssemblyReference.cache
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11_2.Form1.resources
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11_2.Resources.resources
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11-2.vbproj.GenerateResource.cache
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11-2.vbproj.CoreCompileInputs.cache
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11-2.exe
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11-2.xml
+H:\VBNET\VBNET\project\11_ファイル処理\例題11-2\例題11-2\obj\Debug\例題11-2.pdb

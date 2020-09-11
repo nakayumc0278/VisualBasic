@@ -1,0 +1,12 @@
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\bin\Debug\課題4-2-1.exe.config
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\bin\Debug\課題4-2-1.exe
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\bin\Debug\課題4-2-1.pdb
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\bin\Debug\課題4-2-1.xml
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4-2-1.vbprojAssemblyReference.cache
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4_2_1.Form1.resources
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4_2_1.Resources.resources
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4-2-1.vbproj.GenerateResource.cache
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4-2-1.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4-2-1.exe
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4-2-1.xml
+H:\VBNET\project\04_分岐処理\課題4-2-1\課題4-2-1\obj\Debug\課題4-2-1.pdb

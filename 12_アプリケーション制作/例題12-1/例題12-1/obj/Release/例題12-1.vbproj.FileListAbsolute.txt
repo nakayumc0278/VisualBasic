@@ -1,0 +1,11 @@
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\bin\Release\例題12-1.exe.config
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\bin\Release\例題12-1.exe
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\bin\Release\例題12-1.pdb
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\bin\Release\例題12-1.xml
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\obj\Release\例題12_1.オームの計算.resources
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\obj\Release\例題12_1.Resources.resources
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\obj\Release\例題12-1.vbproj.GenerateResource.cache
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\obj\Release\例題12-1.vbproj.CoreCompileInputs.cache
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\obj\Release\例題12-1.exe
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\obj\Release\例題12-1.xml
+H:\VBNET\VBNET\project\12_アプリケーション制作\例題12-1\例題12-1\obj\Release\例題12-1.pdb

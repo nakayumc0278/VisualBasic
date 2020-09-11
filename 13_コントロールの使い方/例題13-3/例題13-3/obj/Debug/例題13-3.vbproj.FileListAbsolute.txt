@@ -1,0 +1,11 @@
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\bin\Debug\例題13-3.exe.config
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\bin\Debug\例題13-3.exe
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\bin\Debug\例題13-3.pdb
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\bin\Debug\例題13-3.xml
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\obj\Debug\例題13-3.vbprojAssemblyReference.cache
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\obj\Debug\例題13_3.Form1.resources
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\obj\Debug\例題13_3.Resources.resources
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\obj\Debug\例題13-3.vbproj.GenerateResource.cache
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\obj\Debug\例題13-3.exe
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\obj\Debug\例題13-3.xml
+V:\VBNET\project\13_コントロールの使い方\例題13-3\例題13-3\obj\Debug\例題13-3.pdb

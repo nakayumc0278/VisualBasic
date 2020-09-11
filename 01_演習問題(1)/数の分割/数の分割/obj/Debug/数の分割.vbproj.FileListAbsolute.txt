@@ -1,0 +1,12 @@
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\bin\Debug\数の分割.exe.config
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\bin\Debug\数の分割.exe
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\bin\Debug\数の分割.pdb
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\bin\Debug\数の分割.xml
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.vbprojAssemblyReference.cache
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.Form1.resources
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.Resources.resources
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.vbproj.GenerateResource.cache
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.vbproj.CoreCompileInputs.cache
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.exe
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.xml
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\数の分割\数の分割\obj\Debug\数の分割.pdb

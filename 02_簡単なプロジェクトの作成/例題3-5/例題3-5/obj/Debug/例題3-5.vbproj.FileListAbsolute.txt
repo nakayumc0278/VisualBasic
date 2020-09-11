@@ -1,0 +1,12 @@
+H:\VBNET\project\例題3-5\例題3-5\bin\Debug\例題3-5.exe.config
+H:\VBNET\project\例題3-5\例題3-5\bin\Debug\例題3-5.exe
+H:\VBNET\project\例題3-5\例題3-5\bin\Debug\例題3-5.pdb
+H:\VBNET\project\例題3-5\例題3-5\bin\Debug\例題3-5.xml
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3-5.vbprojAssemblyReference.cache
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3_5.Form1.resources
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3_5.Resources.resources
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3-5.vbproj.GenerateResource.cache
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3-5.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3-5.exe
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3-5.xml
+H:\VBNET\project\例題3-5\例題3-5\obj\Debug\例題3-5.pdb

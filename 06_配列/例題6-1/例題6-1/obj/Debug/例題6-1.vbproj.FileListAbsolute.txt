@@ -1,0 +1,12 @@
+H:\VBNET\project\06_配列\例題6-1\例題6-1\bin\Debug\例題6-1.exe.config
+H:\VBNET\project\06_配列\例題6-1\例題6-1\bin\Debug\例題6-1.exe
+H:\VBNET\project\06_配列\例題6-1\例題6-1\bin\Debug\例題6-1.pdb
+H:\VBNET\project\06_配列\例題6-1\例題6-1\bin\Debug\例題6-1.xml
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6-1.vbprojAssemblyReference.cache
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6_1.Form1.resources
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6_1.Resources.resources
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6-1.vbproj.GenerateResource.cache
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6-1.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6-1.exe
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6-1.xml
+H:\VBNET\project\06_配列\例題6-1\例題6-1\obj\Debug\例題6-1.pdb

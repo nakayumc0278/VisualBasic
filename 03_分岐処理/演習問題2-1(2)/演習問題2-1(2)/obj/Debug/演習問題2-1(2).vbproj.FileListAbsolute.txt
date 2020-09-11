@@ -1,0 +1,12 @@
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\bin\Debug\演習問題2-1(2).exe.config
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\bin\Debug\演習問題2-1(2).exe
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\bin\Debug\演習問題2-1(2).pdb
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\bin\Debug\演習問題2-1(2).xml
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2-1(2).vbprojAssemblyReference.cache
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2_1_2_.Form1.resources
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2_1_2_.Resources.resources
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2-1(2).vbproj.GenerateResource.cache
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2-1(2).vbproj.CoreCompileInputs.cache
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2-1(2).exe
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2-1(2).xml
+H:\VBNET\project\04_分岐処理\演習問題2-1(2)\演習問題2-1(2)\obj\Debug\演習問題2-1(2).pdb

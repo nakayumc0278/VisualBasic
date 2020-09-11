@@ -1,0 +1,12 @@
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\bin\Debug\課題10-4.exe.config
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\bin\Debug\課題10-4.exe
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\bin\Debug\課題10-4.pdb
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\bin\Debug\課題10-4.xml
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10_4.Form1.resources
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10_4.Resources.resources
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10-4.vbproj.GenerateResource.cache
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10-4.vbproj.CoreCompileInputs.cache
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10-4.exe
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10-4.xml
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10-4.pdb
+H:\VBNET\VBNET\project\10_クラスライブラリ\課題10-4\課題10-4\obj\Debug\課題10-4.vbprojAssemblyReference.cache

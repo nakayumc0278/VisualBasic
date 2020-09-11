@@ -1,0 +1,12 @@
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\bin\Debug\演習問題(4)5.exe.config
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\bin\Debug\演習問題(4)5.exe
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\bin\Debug\演習問題(4)5.pdb
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\bin\Debug\演習問題(4)5.xml
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題(4)5.vbprojAssemblyReference.cache
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題_4_5.Form1.resources
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題_4_5.Resources.resources
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題(4)5.vbproj.GenerateResource.cache
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題(4)5.vbproj.CoreCompileInputs.cache
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題(4)5.exe
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題(4)5.xml
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\演習問題(4)5\演習問題(4)5\obj\Debug\演習問題(4)5.pdb

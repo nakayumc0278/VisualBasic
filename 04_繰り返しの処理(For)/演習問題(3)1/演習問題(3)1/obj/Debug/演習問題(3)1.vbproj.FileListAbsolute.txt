@@ -1,0 +1,11 @@
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\bin\Debug\演習問題(3)1.exe.config
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\bin\Debug\演習問題(3)1.exe
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\bin\Debug\演習問題(3)1.pdb
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\bin\Debug\演習問題(3)1.xml
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\obj\Debug\演習問題_3_1.Form1.resources
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\obj\Debug\演習問題_3_1.Resources.resources
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\obj\Debug\演習問題(3)1.vbproj.GenerateResource.cache
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\obj\Debug\演習問題(3)1.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\obj\Debug\演習問題(3)1.exe
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\obj\Debug\演習問題(3)1.xml
+H:\VBNET\project\04_繰り返しの処理\演習問題(3)1\演習問題(3)1\obj\Debug\演習問題(3)1.pdb

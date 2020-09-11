@@ -1,0 +1,12 @@
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\bin\Debug\総合演習1-2.exe.config
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\bin\Debug\総合演習1-2.exe
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\bin\Debug\総合演習1-2.pdb
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\bin\Debug\総合演習1-2.xml
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1_2.Form1.resources
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1_2.Resources.resources
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1-2.vbproj.GenerateResource.cache
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1-2.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1-2.exe
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1-2.xml
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1-2.pdb
+H:\VBNET\project\14_総合演習課題\総合演習1-2\総合演習1-2\obj\Debug\総合演習1-2.vbprojAssemblyReference.cache

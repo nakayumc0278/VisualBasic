@@ -1,0 +1,12 @@
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\bin\Debug\円錐の体積.exe.config
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\bin\Debug\円錐の体積.exe
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\bin\Debug\円錐の体積.pdb
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\bin\Debug\円錐の体積.xml
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.vbprojAssemblyReference.cache
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.Form1.resources
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.Resources.resources
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.vbproj.GenerateResource.cache
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.exe
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.xml
+H:\VBNET\project\03_演習問題(1)\円錐の体積\円錐の体積\obj\Debug\円錐の体積.pdb

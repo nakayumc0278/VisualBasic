@@ -1,0 +1,12 @@
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.vbprojAssemblyReference.cache
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.Form1.resources
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.Resources.resources
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.vbproj.GenerateResource.cache
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.vbproj.CoreCompileInputs.cache
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\bin\Debug\三角形の面積.exe.config
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\bin\Debug\三角形の面積.exe
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\bin\Debug\三角形の面積.pdb
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\bin\Debug\三角形の面積.xml
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.exe
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.xml
+\\192.168.1.8\document\VBNET\project\03_演習問題(1)\三角形の面積\三角形の面積\obj\Debug\三角形の面積.pdb

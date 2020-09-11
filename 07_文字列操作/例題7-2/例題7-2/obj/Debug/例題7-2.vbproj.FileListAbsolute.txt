@@ -1,0 +1,11 @@
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\bin\Debug\例題7-2.exe.config
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\bin\Debug\例題7-2.exe
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\bin\Debug\例題7-2.pdb
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\bin\Debug\例題7-2.xml
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\obj\Debug\例題7_2.Form1.resources
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\obj\Debug\例題7_2.Resources.resources
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\obj\Debug\例題7-2.vbproj.GenerateResource.cache
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\obj\Debug\例題7-2.vbproj.CoreCompileInputs.cache
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\obj\Debug\例題7-2.exe
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\obj\Debug\例題7-2.xml
+\\192.168.1.8\document\VBNET\project\07_文字列操作\例題7-2\例題7-2\obj\Debug\例題7-2.pdb

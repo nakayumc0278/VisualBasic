@@ -1,0 +1,12 @@
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\bin\Debug\例題5-4.exe.config
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\bin\Debug\例題5-4.exe
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\bin\Debug\例題5-4.pdb
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\bin\Debug\例題5-4.xml
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5-4.vbprojAssemblyReference.cache
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5_4.Form1.resources
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5_4.Resources.resources
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5-4.vbproj.GenerateResource.cache
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5-4.vbproj.CoreCompileInputs.cache
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5-4.exe
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5-4.xml
+\\192.168.1.8\document\VBNET\project\05_繰り返しの処理(While)\例題5-4\例題5-4\obj\Debug\例題5-4.pdb

@@ -1,0 +1,12 @@
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\bin\Debug\例題8-1.exe.config
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\bin\Debug\例題8-1.exe
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\bin\Debug\例題8-1.pdb
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\bin\Debug\例題8-1.xml
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8-1.vbprojAssemblyReference.cache
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8_1.Form1.resources
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8_1.Resources.resources
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8-1.vbproj.GenerateResource.cache
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8-1.vbproj.CoreCompileInputs.cache
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8-1.exe
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8-1.xml
+H:\VBNET\project\08_プロシージャ\例題8-1\例題8-1\obj\Debug\例題8-1.pdb

@@ -1,0 +1,12 @@
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\bin\Debug\例題7-8.exe.config
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\bin\Debug\例題7-8.exe
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\bin\Debug\例題7-8.pdb
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\bin\Debug\例題7-8.xml
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7-8.vbprojAssemblyReference.cache
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7_8.Form1.resources
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7_8.Resources.resources
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7-8.vbproj.GenerateResource.cache
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7-8.vbproj.CoreCompileInputs.cache
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7-8.exe
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7-8.xml
+\\192.168.1.8\document\VBNET\project\例題7-8\例題7-8\obj\Debug\例題7-8.pdb

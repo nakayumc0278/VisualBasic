@@ -1,0 +1,11 @@
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\bin\Debug\演習問題(4)3.exe.config
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\bin\Debug\演習問題(4)3.exe
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\bin\Debug\演習問題(4)3.pdb
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\bin\Debug\演習問題(4)3.xml
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\obj\Debug\演習問題_4_3.Form1.resources
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\obj\Debug\演習問題_4_3.Resources.resources
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\obj\Debug\演習問題(4)3.vbproj.GenerateResource.cache
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\obj\Debug\演習問題(4)3.vbproj.CoreCompileInputs.cache
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\obj\Debug\演習問題(4)3.exe
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\obj\Debug\演習問題(4)3.xml
+c:\users\it2926\source\repos\演習問題(4)3\演習問題(4)3\obj\Debug\演習問題(4)3.pdb

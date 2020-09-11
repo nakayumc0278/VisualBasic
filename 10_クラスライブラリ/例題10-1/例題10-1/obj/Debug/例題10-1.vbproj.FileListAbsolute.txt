@@ -1,0 +1,12 @@
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\bin\Debug\例題10-1.exe.config
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\bin\Debug\例題10-1.exe
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\bin\Debug\例題10-1.pdb
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\bin\Debug\例題10-1.xml
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10-1.vbprojAssemblyReference.cache
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10_1.Form1.resources
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10_1.Resources.resources
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10-1.vbproj.GenerateResource.cache
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10-1.vbproj.CoreCompileInputs.cache
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10-1.exe
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10-1.xml
+H:\VBNET\VBNET\project\10_クラスライブラリ\例題10-1\例題10-1\obj\Debug\例題10-1.pdb
